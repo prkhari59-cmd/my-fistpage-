@@ -1,61 +1,19 @@
-# Cup-of-calm
-RH
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Cup of Calm - Tea Shop</title>
-  <style>
-    body { 
-      font-family: Arial, sans-serif; 
-      text-align: center; 
-      background: #f5f5dc; 
-      margin: 0; 
-      padding: 0;
-    }
-    header {
-      background: #6b4226; 
-      color: white; 
-      padding: 20px;
-    }
-    .card {
-      background: #fff; 
-      padding: 20px; 
-      margin: 20px auto; 
-      max-width: 400px; 
-      border-radius: 10px; 
-      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    }
-    h1 { color: #6b4226; }
-    h2 { color: #333; }
-    p { color: #444; line-height: 1.6; }
-    a { 
-      display: block; 
-      margin: 10px auto; 
-      padding: 10px; 
-      width: 80%; 
-      background: #6b4226; 
-      color: white; 
-      text-decoration: none; 
-      border-radius: 5px;
-    }
-    a:hover { background: #8c5a36; }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>☕ Cup of Calm</h1>
-    <p>Tea that soothes your soul</p>
-  </header>
+# CUP OF CALM
 
-  <div class="card">
-    <h2>Welcome to Our Tea Shop</h2>
-    <p>📍 Location: Theni</p>
-    <p>📞 Contact: +91 98765 43210 (Dummy Number)</p>
-    <p>We serve refreshing teas, snacks, and a calm atmosphere for all tea lovers.</p>
-    
-    <a href="https://wa.me/919876543210">💬 Chat on WhatsApp</a>
-    <a href="https://maps.app.goo.gl/xyz123">📍 Find Us on Google Maps</a>
-  </div>
-</body>
-</html>
+
+  <✨Welcome to Cup of Calm ✨>
+
+“Peace Poured in Every Cup”
+        Logo Meanining:
+        
+   Tea Cup: Warmth & Comfort
+
+Leaf-shaped Steam: Freshness + Calmness
+
+Pastel Blue Color: Peace & Positivity
+
+Small Leaf: Natural & Healthy Touch
+.mobil number = 6354748646.
+          ☕ Theni ☕
+🌸 Thank You for Visiting Us! 🌸
+Sip your calm, Share your smile 😊
